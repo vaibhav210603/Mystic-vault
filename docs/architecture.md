@@ -1,4 +1,4 @@
-# Architecture
+# WEB app Architecture
 
 ## Overview
 Mystic Vault consists of two main components:
